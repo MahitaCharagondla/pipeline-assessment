@@ -18,3 +18,6 @@
   - partner_code
   - file_name
   - column_mapping
+### Output in this case of sample data
+
+<img width="810" height="172" alt="image" src="https://github.com/user-attachments/assets/ea1467bf-86d6-492f-bcce-af1642ab6614" />
