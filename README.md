@@ -22,6 +22,8 @@
 ### Sample input files
 <img width="751" height="185" alt="image" src="https://github.com/user-attachments/assets/4f639dde-76ee-4bb7-a619-7911a047cf4f" />
 <img width="710" height="268" alt="image" src="https://github.com/user-attachments/assets/4f967e46-4557-4d93-8e2f-984121380a64" />
+
+
 ### Output in this case of sample data
 
 <img width="810" height="172" alt="image" src="https://github.com/user-attachments/assets/ea1467bf-86d6-492f-bcce-af1642ab6614" />
