@@ -1,4 +1,6 @@
 data/
+  acme.txt
+  bettercare.csv
 output/
 __pycache__/
 *.pyc
